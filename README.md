@@ -15,7 +15,7 @@ This repository contains selected code and data for our NAACL 2019 long paper on
              url = {http://tubiblio.ulb.tu-darmstadt.de/111643/}
 }
 ```
-> **Abstract:** Visual modifications to text are often used to obfuscate offensive comments in social media (e.g., ``!d10t'') or as a writing style (``1337'' in ``leet speak''), among other scenarios.
+> **Abstract:** Visual modifications to text are often used to obfuscate offensive comments in social media (e.g., ''!d10t'') or as a writing style (''1337'' in ''leet speak''), among other scenarios.
 We consider this as a new type of adversarial attack in NLP,  a 
 setting
 to which humans are very robust, 
