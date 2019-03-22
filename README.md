@@ -45,4 +45,16 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ## Project Description
 
-currently under construction
+### Embeddings
+
+Visual Character Embeddings (576 dimensional): 
+
+### G2P model
+
+### VIPER
+
+```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
+
+### Sanity Check / Semantic Similarity 
+
+See Appendix
