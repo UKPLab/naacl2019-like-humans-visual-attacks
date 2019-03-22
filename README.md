@@ -55,6 +55,8 @@ See `code/G2P`
 
 ### VIPER
 
+In `code/VIPER`:
+
 ```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
 
 ### Sanity Check / Semantic Similarity 
