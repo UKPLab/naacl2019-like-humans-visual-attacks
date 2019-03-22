@@ -51,6 +51,8 @@ Visual Character Embeddings (576 dimensional):
 
 ### G2P model
 
+See `code/G2P`
+
 ### VIPER
 
 ```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
