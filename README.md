@@ -5,7 +5,7 @@ This repository contains selected code and data for our NAACL 2019 long paper on
 ## Citation
 
 ```
-@inproceedings{Eger_naacl:2019,
+@inproceedings{Eger:2019:NAACL,
             title = {Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems},
             year = {2019},
           author = {Steffen Eger and G{\"o}zde G{\"u}l {\c S}ahin and Andreas R{\"u}ckl{\'e} and Ji-Ung Lee and Claudia Schulz and Mohsen Mesgar and Krishnkant Swarnkar and Edwin Simpson and Iryna Gurevych},
@@ -47,21 +47,22 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ### Embeddings
 
-Visual Character Embeddings (576 dimensional): 
+We created diverse embeddings, including 576 dimensional visual Character Embeddings.
 
 All embeddings and weights can be found on our public file server:
 
 https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attacks/
-
-### G2P model
-
-See `code/G2P`
 
 ### VIPER
 
 In `code/VIPER`:
 
 ```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
+
+
+### G2P model
+
+See `code/G2P`
 
 ### Toxic comments training and testing
 
