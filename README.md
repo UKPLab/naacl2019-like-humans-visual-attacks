@@ -66,6 +66,10 @@ See `code/G2P`
 
 See `code/TC`
 
-### Sanity Check / Semantic Similarity 
+### Semantic Similarity Sanity Check
 
-See Appendix
+In the appendix, we performed a semantic similarity "sanity check" to check whether VELMo assigns higher cosine similarity to a pair of (clean,perturbed) than SELMo. The pairs are of the form: 
+
+```Greetings Hey douche bag wassup   Gre🇪t🇮nĞs Hey do🇺cᴴe bag ```
+
+The code can be found in `code/sanity_check`
