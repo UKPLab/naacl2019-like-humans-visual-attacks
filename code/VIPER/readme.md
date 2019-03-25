@@ -2,7 +2,7 @@
 
 Run VIPER(p,ICES) using
 
-```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
+```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt < sample.txt```
 
 * `efile.norm` is a dense embedding file. 
 * `p` is the perturbation probability. 
