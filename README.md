@@ -49,6 +49,10 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 Visual Character Embeddings (576 dimensional): 
 
+All embeddings and weights can be found on our public file server:
+
+https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attacks/
+
 ### G2P model
 
 See `code/G2P`
