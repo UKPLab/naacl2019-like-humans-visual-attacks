@@ -8,7 +8,10 @@ Run VIPER(p,ICES) using
 * `p` is the perturbation probability. 
 * `dummy_store.txt` stores the disturbed characters used (can be used to create OOV test disturbances).
 
-# Getting an image for a character
+# VIPER(p,ECES/DCES)
+
+
+# Drawing an image for a character
 
 Run
 
