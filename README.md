@@ -59,6 +59,14 @@ In `code/VIPER`:
 
 ```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
 
+### Toxic comments training and testing
+
+See `code/TC`
+
+### AllenNLP forks for ELMo with 30k characters
+
+See `code/allennlp_selmo30k` for ELMo with 30k characters and `code/allennlp_velmo30k` for visually informed ELMo with 30k characters
+
 ### Sanity Check / Semantic Similarity 
 
 See Appendix
