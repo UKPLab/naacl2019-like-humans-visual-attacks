@@ -55,9 +55,7 @@ https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attac
 
 ### VIPER
 
-In `code/VIPER`:
-
-```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt```
+VIPER is our visual text perturber. More information on VIPER can be found in `code/VIPER`
 
 
 ### G2P model
