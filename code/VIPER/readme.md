@@ -19,4 +19,20 @@ Run
 
 * `mychars` is a line separated list with characters
 
+## Description-based Character Embedding Space (DCES) 
+
+To perturb an input text by selecting random neighboring tokens in the DCES, run the following script:
+
+```
+python3 disturb_gold.py -p 0.4 -d ../G2P_data/train.1k --conll
+```
+
+* -p `<arg>`: argument gives the probability of perturbing each input character
+
+* -d `<arg>`: argument gives the path to the text data you want to perturb
+
+* --conll: indicates whether data (both the input and output) is in CONLL (tab) separated format. If conll format is not set, the perturb text is printed as plain text with no formatting.
+
+The descriptions are read from NamesList.txt to construct the DCES. Perturbed data is printed to stdout. 
+
  
