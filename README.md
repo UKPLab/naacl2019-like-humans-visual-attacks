@@ -71,6 +71,6 @@ See `code/TC`
 In the appendix, we performed a semantic similarity "sanity check" to check whether VELMo assigns higher cosine similarity to a pair of (clean,perturbed) sentences than SELMo. The pairs are of the form: 
 
 ```Greetings Hey douche bag wassup```
-```Gre🇪t🇮nĞs Hey do🇺cᴴe ``` 
+```Grëȩtinɋs Ηey ḏoʋchḛ bag ✿ąssɥp```
 
 The code can be found in `code/sanity_check`
