@@ -8,18 +8,7 @@ Run VIPER(p,ICES) using
 * `p` is the perturbation probability. 
 * `dummy_store.txt` stores the disturbed characters used (can be used to create OOV test disturbances).
 
-# VIPER(p,ECES/DCES)
-
-
-# Drawing an image for a character
-
-Run
-
-```python3 mydraw_individual.py < mychars```
-
-* `mychars` is a line separated list with characters
-
-## Description-based Character Embedding Space (DCES) 
+# VIPER(p,DCES)
 
 To perturb an input text by selecting random neighboring tokens in the DCES, run the following script:
 
@@ -33,6 +22,14 @@ python3 disturb_gold.py -p 0.4 -d ../G2P_data/train.1k --conll
 
 * --conll: indicates whether data (both the input and output) is in CONLL (tab) separated format. If conll format is not set, the perturb text is printed as plain text with no formatting.
 
-The descriptions are read from NamesList.txt to construct the DCES. Perturbed data is printed to stdout. 
+The descriptions are read from NamesList.txt to construct the DCES. Perturbed data is printed to stdout.
 
- 
+
+# Drawing an image for a character
+
+Run
+
+```python3 mydraw_individual.py < mychars```
+
+* `mychars` is a line separated list with characters
+
