@@ -2,9 +2,11 @@
 
 Run VIPER(p,ICES) using
 
-```python3 disturb_plain.py -e efile.norm -p 0.4 --perturbations-file dummy_store.txt < sample.txt```
+```
+python3 viper_ices.py -e vce.normalized -p 0.4 --perturbations-file dummy_store.txt < sample.txt
+```
 
-* `efile.norm` is a dense embedding file. 
+* `vce.normalized` is a dense embedding file. 
 * `p` is the perturbation probability. 
 * `dummy_store.txt` stores the disturbed characters used (can be used to create OOV test disturbances).
 
@@ -13,7 +15,7 @@ Run VIPER(p,ICES) using
 To perturb an input text by selecting random neighboring tokens in the DCES, run the following script:
 
 ```
-python3 disturb_gold.py -p 0.4 -d ../G2P_data/train.1k --conll
+python3 viper_dces.py -p 0.4 -d ../G2P_data/train.1k --conll
 ```
 
 * -p `<arg>`: argument gives the probability of perturbing each input character
@@ -29,7 +31,9 @@ The descriptions are read from NamesList.txt to construct the DCES. Perturbed da
 
 Run
 
-```python3 mydraw_individual.py < mychars```
+```
+python3 mydraw_individual.py < mychars
+```
 
 * `mychars` is a line separated list with characters
 
