@@ -18,7 +18,7 @@ prob = float(parsed_args.prob)
 perturbations_file = PerturbationsStorage(parsed_args.perturbations_file)
 
 # SAMPLE USAGE:
-# python3 disturb_plain.py -e ../embeddings/efile.norm -p 0.4 
+# python3 viper_ices.py -e ../embeddings/efile.norm -p 0.4 
 
 from gensim.models import KeyedVectors as W2Vec
 

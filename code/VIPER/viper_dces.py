@@ -5,7 +5,7 @@
 
  Example usage:
 
- python3 disturb_gold.py -p 0.4 -d ../G2P_data/train.1k --conll --odd
+ python3 viper_dces.py -p 0.4 -d ../G2P_data/train.1k --conll --odd
 
 '''
 
