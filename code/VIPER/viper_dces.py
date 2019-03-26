@@ -14,12 +14,45 @@ import random
 import sys
 
 import numpy as np
-from readData import readConll as rd
-from readData import readStandard as rds
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 from sklearn.feature_extraction.text import CountVectorizer
 from perturbations_store import PerturbationsStorage
+
+def read_data_conll(fn):
+
+ docs=[]
+ doc=[]
+
+ for line in open(fn):
+  line = line.strip()
+  if line=="":
+    if doc!=[]:
+      a,b=[],[]
+      for l in doc: 
+        _,x,y = l.split("\t")
+        a.append(x)
+        b.append(y)
+      docs.append("{}\t{}".format(" ".join(a)," ".join(b)))
+    doc=[]
+  else:
+    doc.append(line)
+
+ if doc!=[]: 
+  a,b=[],[]
+  for l in doc:
+        _,x,y = l.split("\t")
+        a.append(x)
+        b.append(y)
+  docs.append("{}\t{}".format(" ".join(a)," ".join(b)))
+
+ return docs
+
+def read_data_standard(fn):
+  docs=[]
+  for line in open(fn):
+    docs.append(line)
+  return docs  
 
 # load the unicode descriptions into a single dataframe with the chars as indices
 descs = pd.read_csv('NamesList.txt', skiprows=np.arange(16), header=None, names=['code', 'description'], delimiter='\t')
@@ -84,9 +117,9 @@ def get_all_variations(ch):
             case = 'CAPITAL'
 
     # for debugging
-    if case == 'unknown':
-        sys.stderr.write('Unknown case:')
-        sys.stderr.write("{}\n".format(toks))
+    #if case == 'unknown':
+    #    sys.stderr.write('Unknown case:')
+    #    sys.stderr.write("{}\n".format(toks))
 
     # find matching chars
     matches = []
@@ -174,10 +207,10 @@ isConll = parsed_args.conll==True
 perturbations_file = PerturbationsStorage(parsed_args.perturbations_file)
 
 if isConll:
-  docs=rd(docs)
+  docs=read_data_conll(docs)
   output_format="conll"
 else:
-  docs=rds(docs)
+  docs=read_data_standard(docs)
   output_format="standard"
 
 # the main loop for disturbing the text
@@ -189,9 +222,13 @@ mydict={}
 print_all_alternatives = False
 
 for line in docs:
-  a,b = line.rstrip("\n").split("\t")
-  b = b.split()
-  a = a.split()
+
+  if isConll:
+    a,b = line.rstrip("\n").split("\t")
+    b = b.split()
+    a = a.split()
+  else:
+    a = line.rstrip("\n")
 
   out_x = []
   for c in a:
@@ -226,4 +263,4 @@ for line in docs:
       print("{}\t{}\t{}\t{}".format(i+1, a[i], out_x[i], char_to_hex_string(out_x[i])))
     print() 
   else:
-    print("{}\t{}".format(" ".join(out_x)," ".join(b)))
+    print("{}".format(" ".join(out_x)))

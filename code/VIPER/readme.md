@@ -12,10 +12,15 @@ python3 viper_ices.py -e vce.normalized -p 0.4 --perturbations-file dummy_store.
 
 # VIPER(p,DCES)
 
-To perturb an input text by selecting random neighboring tokens in the DCES, run the following script:
+To perturb an input text by selecting random neighboring tokens in the DCES, run the following script for a plain text file:
 
 ```
-python3 viper_dces.py -p 0.4 -d ../G2P_data/train.1k --conll
+python3 viper_dces.py -p 0.4 -d sample.txt
+```
+Or run it on some CoNLL data:
+
+```
+python3 viper_dces.py -p 0.4 -d sample_conll.txt --conll
 ```
 
 * -p `<arg>`: argument gives the probability of perturbing each input character

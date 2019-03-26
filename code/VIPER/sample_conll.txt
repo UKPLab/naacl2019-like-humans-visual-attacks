@@ -1,0 +1,1000 @@
+1	H	h
+2	a	A
+3	r	r
+4	w	w
+5	o	U
+6	o	_
+7	d	d
+
+1	w	w
+2	a	A
+3	l	_
+4	l	5
+5	e	@
+6	t	t
+7	s	s
+
+1	U	V
+2	l	l
+3	s	s
+4	t	t
+5	e	_
+6	r	B:r
+7	s	z
+
+1	d	d
+2	e	i
+3	f	f
+4	e	E
+5	n	n
+6	c	s
+7	e	@
+8	s	z
+
+1	m	m
+2	o	F
+3	a	_
+4	n	n
+5	f	f
+6	u	_
+7	l	R
+
+1	d	d
+2	i	@
+3	m	m
+4	e	E
+5	n	n
+6	s	S
+7	i	_
+8	o	_
+9	n	X
+10	s	z
+
+1	w	w
+2	h	_
+3	i	I
+4	s	s
+5	t	t
+
+1	j	K
+2	a	a
+3	g	g
+4	u	j:u
+5	a	A
+6	r	r
+7	'	_
+8	s	z
+
+1	i	I
+2	n	n
+3	s	S
+4	u	$
+5	r	r
+6	e	_
+7	d	d
+
+1	f	f
+2	r	r
+3	i	G
+4	a	_
+5	r	B:r
+6	y	i
+7	'	_
+8	s	z
+
+1	c	k
+2	h	_
+3	r	r
+4	o	F
+5	m	m
+6	e	+
+
+1	c	s
+2	e	E
+3	m	m
+4	e	@
+5	t	t
+6	e	E
+7	r	r
+8	i	i
+9	e	_
+10	s	z
+
+1	k	k
+2	e	i
+3	e	_
+4	n	n
+5	e	_
+6	r	B:r
+
+1	o	:
+2	r	r
+3	n	n
+4	a	@
+5	m	m
+6	e	E
+7	n	n
+8	t	t
+9	a	P
+10	t	_
+11	i	_
+12	o	_
+13	n	S:X
+14	s	z
+
+1	j	K
+2	i	G
+3	b	b
+4	e	_
+5	d	d
+
+1	s	s
+2	i	I
+3	l	5
+4	l	_
+5	i	i
+6	n	n
+7	e	@
+8	s	s
+9	s	_
+
+1	U	j:u
+2	g	g
+3	a	A
+4	n	n
+5	d	d
+6	a	@
+7	'	_
+8	s	z
+
+1	J	K
+2	u	V
+3	s	s
+4	t	t
+5	i	i
+6	n	n
+7	a	@
+
+1	d	d
+2	i	G
+3	a	@
+4	g	g
+5	n	n
+6	o	F
+7	s	s
+8	i	I
+9	n	_
+10	g	N
+
+1	s	s
+2	t	t
+3	u	u
+4	p	p
+5	e	@
+6	f	f
+7	y	G
+
+1	p	p
+2	o	A
+3	c	k
+4	k	_
+5	e	_
+6	d	t
+
+1	k	_
+2	n	n
+3	e	E
+4	l	5
+5	t	t
+
+1	l	l
+2	i	G
+3	g	_
+4	h	_
+5	t	t
+
+1	s	s
+2	w	w
+3	o	_
+4	o	u
+5	p	p
+
+1	e	I
+2	r	r
+3	a	P
+4	s	s
+5	a	@
+6	b	b
+7	i	I
+8	l	5
+9	i	@
+10	t	t
+11	y	i
+
+1	b	b
+2	u	U
+3	l	l
+4	l	_
+5	f	f
+6	i	G
+7	g	_
+8	h	_
+9	t	t
+10	s	s
+
+1	o	A
+2	b	b
+3	d	K
+4	u	u
+5	r	r
+6	a	@
+7	t	t
+8	e	0
+
+1	u	V
+2	n	n
+3	c	k
+4	o	@
+5	m	m
+6	p	p
+7	e	E
+8	t	t
+9	i	@
+10	t	t
+11	i	I
+12	v	v
+13	e	0
+14	n	n
+15	e	@
+16	s	s
+17	s	_
+
+1	a	a
+2	g	K
+3	i	@
+4	t	t
+5	a	P
+6	t	t
+7	i	I
+8	n	_
+9	g	N
+
+1	s	s
+2	k	k
+3	i	I
+4	n	n
+5	d	d
+6	i	G
+7	v	v
+8	e	+
+
+1	s	_
+2	h	S
+3	i	G
+4	n	n
+5	i	I
+6	n	_
+7	g	N
+8	n	n
+9	e	@
+10	s	s
+11	s	_
+
+1	c	k
+2	u	j:$
+3	r	r
+4	a	@
+5	t	t
+6	i	I
+7	v	v
+8	e	0
+9	s	z
+
+1	b	b
+2	u	I
+3	s	z
+4	i	0
+5	n	n
+6	e	@
+7	s	s
+8	s	_
+9	'	@
+10	s	z
+
+1	b	b
+2	e	i
+3	e	_
+4	t	t
+5	l	R
+6	e	_
+7	d	d
+
+1	T	T
+2	h	_
+3	o	:
+4	r	r
+
+1	b	b
+2	o	A
+3	n	n
+4	s	z
+5	a	_
+6	i	G
+7	s	z
+
+1	J	K
+2	o	F
+3	s	s
+4	e	@
+5	p	f
+6	h	_
+7	i	i
+8	n	n
+9	e	+
+
+1	n	n
+2	u	u
+3	m	m
+4	e	E
+5	r	r
+6	i	I
+7	c	k
+8	a	@
+9	l	l
+
+1	e	I
+2	x	k:s
+3	p	p
+4	l	l
+5	o	F
+6	d	d
+7	i	I
+8	n	_
+9	g	N
+
+1	p	p
+2	r	r
+3	o	F
+4	r	r
+5	a	P
+6	t	t
+7	e	+
+8	s	s
+
+1	u	V
+2	n	n
+3	r	r
+4	e	E
+5	s	s
+6	t	t
+7	i	I
+8	n	_
+9	g	N
+
+1	w	w
+2	e	i
+3	e	_
+4	n	n
+5	i	I
+6	n	_
+7	g	N
+
+1	d	d
+2	r	r
+3	e	E
+4	d	_
+5	g	K
+6	e	0
+
+1	N	n
+2	á	a
+3	x	k:s
+4	o	F
+5	s	s
+
+1	a	@
+2	s	_
+3	s	s
+4	o	F
+5	c	S
+6	i	i
+7	a	P
+8	t	t
+9	e	+
+
+1	a	M
+2	i	_
+3	r	r
+4	d	d
+5	r	r
+6	o	A
+7	p	p
+
+1	f	f
+2	u	j:u
+3	s	s
+4	i	@
+5	l	l
+6	l	_
+7	a	A
+8	d	d
+9	e	+
+
+1	E	I
+2	l	l
+3	i	i
+4	s	z
+5	e	+
+
+1	s	s
+2	p	p
+3	a	A
+4	r	r
+5	k	k
+6	l	@:l
+7	i	I
+8	n	_
+9	g	N
+
+1	a	a
+2	s	s
+3	s	_
+4	e	@
+5	t	t
+
+1	r	r
+2	e	i
+3	i	I
+4	n	n
+5	t	t
+6	r	r
+7	o	@
+8	d	d
+9	u	j:u
+10	c	s
+11	e	_
+12	d	t
+
+1	n	n
+2	a	a
+3	r	r
+4	r	_
+5	o	F
+6	w	_
+7	n	n
+8	e	@
+9	s	s
+10	s	_
+
+1	i	G
+2	c	k
+3	o	F
+4	s	s
+5	a	@
+6	h	h
+7	e	i
+8	d	d
+9	r	r
+10	o	@
+11	n	n
+12	s	z
+
+1	c	k
+2	o	A
+3	m	m
+4	p	p
+5	a	a
+6	c	k
+7	t	t
+8	'	_
+9	s	s
+
+1	d	d
+2	r	r
+3	u	V
+4	g	g
+5	s	s
+6	t	t
+7	o	:
+8	r	r
+9	e	0
+
+1	c	<
+2	h	_
+3	e	E
+4	c	k
+5	k	_
+6	l	l
+7	i	I
+8	s	s
+9	t	t
+
+1	i	I
+2	n	n
+3	h	h
+4	o	A
+5	s	s
+6	p	p
+7	i	I
+8	t	t
+9	a	@
+10	b	b
+11	l	@:l
+12	e	_
+13	n	n
+14	e	@
+15	s	s
+16	s	_
+
+1	N	n
+2	o	F
+3	b	b
+4	e	E
+5	l	5
+6	s	z
+
+1	g	K
+2	e	E
+3	n	n
+4	o	@
+5	c	s
+6	i	G
+7	d	d
+8	e	+
+9	'	_
+10	s	z
+
+1	u	V
+2	n	n
+3	w	w
+4	i	I
+5	l	l
+6	l	_
+
+1	p	p
+2	l	l
+3	a	P
+4	g	g
+5	u	_
+6	e	+
+
+1	n	n
+2	u	j:u
+3	d	d
+4	i	I
+5	s	s
+6	t	t
+7	s	s
+
+1	G	g
+2	r	r
+3	i	I
+4	g	g
+5	g	_
+6	s	z
+7	'	@
+8	s	z
+
+1	o	F
+2	v	v
+3	e	_
+4	r	B:r
+5	a	a
+6	c	k
+7	t	t
+8	i	I
+9	v	v
+10	e	0
+
+1	g	K
+2	e	E
+3	n	n
+4	e	@
+5	r	r
+6	a	@
+7	l	l
+8	l	_
+9	y	i
+
+1	r	r
+2	e	I
+3	g	K
+4	e	E
+5	n	n
+6	e	@
+7	r	r
+8	a	@
+9	c	s
+10	y	i
+
+1	o	_
+2	u	J
+3	t	t
+4	p	p
+5	o	:
+6	u	_
+7	r	r
+
+1	m	m
+2	i	G
+3	l	5
+4	d	d
+5	e	_
+6	r	B:r
+
+1	l	l
+2	i	I
+3	b	b
+4	e	_
+5	r	B:r
+6	t	t
+7	i	i
+8	e	_
+9	s	z
+
+1	v	v
+2	i	j
+3	e	_
+4	w	u
+
+1	r	r
+2	e	E
+3	p	p
+4	l	5
+5	i	I
+6	c	k
+7	a	P
+8	t	_
+9	i	_
+10	o	_
+11	n	S:X
+
+1	m	m
+2	a	P
+3	i	_
+4	n	n
+5	s	s
+6	t	t
+7	r	r
+8	e	i
+9	a	_
+10	m	m
+11	e	_
+12	d	d
+
+1	c	k
+2	o	A
+3	n	n
+4	t	t
+5	e	E
+6	x	k:s
+7	t	t
+
+1	H	h
+2	e	_
+3	r	C:r
+4	c	k
+5	u	j:@
+6	l	l
+7	e	i
+8	a	@
+9	n	n
+
+1	e	_
+2	x	I:g:z
+3	h	_
+4	i	I
+5	b	b
+6	i	I
+7	t	t
+8	i	I
+9	n	_
+10	g	N
+
+1	c	k
+2	r	r
+3	e	i
+4	a	_
+5	s	s
+6	e	@
+7	s	z
+
+1	a	A
+2	r	r
+3	c	k
+4	l	l
+5	e	E
+6	n	N
+7	g	k
+8	t	_
+9	h	T
+
+1	s	s
+2	u	V
+3	b	b
+4	s	s
+5	t	t
+6	i	I
+7	t	t
+8	u	j:u
+9	t	t
+10	e	@
+11	d	d
+
+1	a	@
+2	b	b
+3	b	_
+4	r	r
+5	e	i
+6	v	v
+7	i	i
+8	a	P
+9	t	t
+10	o	_
+11	r	B:r
+12	s	z
+
+1	s	s
+2	k	k
+3	y	G
+4	r	r
+5	o	A
+6	c	k
+7	k	_
+8	e	@
+9	t	t
+10	s	s
+
+1	c	k
+2	a	@
+3	n	n
+4	o	u
+5	e	_
+
+1	l	l
+2	i	G
+3	l	5
+4	a	@
+5	c	k
+
+1	K	k
+2	i	i
+3	e	E
+4	v	f
+5	'	_
+6	s	s
+
+1	i	I
+2	n	N
+3	c	k
+4	r	r
+5	e	@
+6	m	m
+7	e	@
+8	n	n
+9	t	t
+10	i	I
+11	n	_
+12	g	N
+
+1	s	s
+2	u	V
+3	b	b
+4	t	_
+5	h	T
+6	r	r
+7	e	E
+8	a	_
+9	d	d
+10	e	@
+11	d	d
+
+1	d	d
+2	e	I
+3	d	d
+4	u	j:u
+5	c	s
+6	i	@
+7	b	b
+8	l	@:l
+9	e	_
+
+1	M	m
+2	a	@
+3	d	d
+4	e	Q
+5	i	_
+6	r	r
+7	a	@
+8	'	_
+9	s	z
+
+1	t	t
+2	o	_
+3	w	J
+4	n	n
+5	h	h
+6	o	_
+7	u	J
+8	s	s
+9	e	0
+10	'	@
+11	s	z
+
+1	t	t
+2	r	r
+3	a	a
+4	n	n
+5	s	s
+6	f	f
+7	e	_
+8	r	C:r
+9	a	@
+10	b	b
+11	l	@:l
+12	e	_
+13	n	n
+14	e	@
+15	s	s
+16	s	_
+
+1	d	d
+2	o	A
+3	l	_
+4	l	5
+5	s	z
+6	'	_
+
+1	g	g
+2	a	a
+3	s	s
+4	l	l
+5	i	G
+6	g	_
+7	h	_
+8	t	t
+9	i	I
+10	n	_
+11	g	N
+
+1	a	@
+2	b	b
+3	r	r
+4	a	P
+5	s	Z
+6	i	_
+7	o	_
+8	n	X
+9	s	z
+
+1	n	n
+2	o	A
+3	s	_
+4	h	S
+
+1	h	h
+2	o	_
+3	u	J
+4	s	z
+5	i	I
+6	n	_
+7	g	N
+8	'	_
+9	s	z
+
+1	m	m
+2	o	V
+3	n	n
+4	e	_
+5	y	i
+6	c	<
+7	h	_
+8	a	P
+9	n	n
+10	g	K
+11	e	_
+12	r	B:r
+
+1	a	a
+2	s	s
+3	y	I
+4	m	m
+5	p	_
+6	t	t
+7	o	F
+8	t	t
+9	e	+
+10	s	s
+
+1	p	p
+2	l	5
+3	a	@
+4	t	t
+5	o	u
+6	o	_
+7	n	n
+8	i	I
+9	n	_
+10	g	N
+
+1	s	s
+2	o	A
+3	l	5
+4	a	@
+5	c	s
+6	e	0
+
+1	c	k
+2	r	r
+3	i	I
+4	s	s
+5	p	p
+
+1	u	V
+2	n	n
+3	a	@
+4	t	t
+5	o	F
+6	n	n
+7	e	_
+8	d	d
+
+1	m	m
+2	i	G
+3	c	k
+4	r	r
+5	o	F
+6	f	f
+7	o	A
+8	s	s
+9	s	_
+10	i	_
+11	l	R
+
+1	s	s
+2	t	t
+3	e	i
+4	a	_
+5	m	m
+6	e	_
+7	r	B:r
+8	s	z
+
+1	w	w
+2	i	I
+3	l	l
+4	d	d
+5	e	@
+6	b	b
+7	e	i
+8	e	_
+9	s	s
+10	t	t
+11	s	s
+
+1	c	k
+2	o	A
+3	m	m
+4	e	@
+5	t	t
+6	s	s
+
+1	W	w
+2	i	I
+3	l	5
+4	l	_
+5	a	_
+6	r	B:r
+7	d	d
+
+1	e	_
+2	u	j:u
+3	p	f
+4	h	_
+5	o	@
+6	n	n
+7	i	G
+8	s	z
+9	e	@
+10	s	z
+
