@@ -47,7 +47,7 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ### Embeddings
 
-We created diverse embeddings, including 576 dimensional visual Character Embeddings.
+We created diverse embeddings, including 576 dimensional visual Character Embeddings (called `vce.normalized` in the folder).
 
 All embeddings and weights can be found on our public file server:
 
