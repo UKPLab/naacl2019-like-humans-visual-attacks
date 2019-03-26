@@ -57,7 +57,6 @@ https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attac
 
 VIPER is our visual text perturber. More information on VIPER can be found in `code/VIPER`
 
-
 ### G2P model
 
 See `code/G2P`
@@ -74,3 +73,7 @@ In the appendix, we performed a semantic similarity "sanity check" to check whet
 ```Grëȩtinɋs Ηey ḏoʋchḛ bag ✿ąssɥp```
 
 The code can be found in `code/sanity_check`
+
+### AllenNLP modifications
+
+To run the visually informed models, we did some modifications on the AllenNLP code. The modified versions can be found in `code/AllenNLP_Modifications` and are necessary to obtain the respective embedding representations.
