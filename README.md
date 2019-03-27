@@ -76,4 +76,4 @@ The code can be found in `code/sanity_check`
 
 ### AllenNLP modifications
 
-To run the visually informed models, we did some modifications on the AllenNLP code. The modified versions can be found in `code/AllenNLP_Modifications` and are necessary to obtain the respective embedding representations.
+To run the visually informed models, we did some modifications on the AllenNLP code. The modified versions can be found in `code/AllenNLP_Modifications` and are necessary to obtain the respective embedding representations for _toxic comment classification_, _chunking_, and _POS tagging_.
