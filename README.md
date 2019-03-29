@@ -1,6 +1,6 @@
 # Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems
 
-This repository contains selected code and data for our NAACL 2019 long paper on [Visually Attacking and Shielding NLP Systems]().
+This repository contains selected code and data for our NAACL 2019 long paper on [Visually Attacking and Shielding NLP Systems](https://arxiv.org/pdf/1903.11508v1.pdf).
 
 ## Citation
 
