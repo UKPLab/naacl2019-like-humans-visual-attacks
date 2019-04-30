@@ -65,6 +65,10 @@ See `code/G2P`
 
 See `code/TC`
 
+### POS Tagging and Chunking
+
+See `code/POS_Chunk`
+
 ### Semantic Similarity Sanity Check
 
 In the appendix, we performed a semantic similarity "sanity check" to check whether VELMo assigns higher cosine similarity to a pair of (clean,perturbed) sentences than SELMo. The pairs are of the form: 
