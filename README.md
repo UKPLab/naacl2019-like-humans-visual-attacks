@@ -53,6 +53,11 @@ All embeddings and weights can be found on our public file server:
 
 https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attacks/
 
+A tsne visualization of the visual character representations from `vce.normalized` (restricted to the first 250 chars) is given below.
+
+![tsne visualization](top250.pdf)
+
+
 ### VIPER
 
 VIPER is our visual text perturber. More information on VIPER can be found in `code/VIPER`
