@@ -61,19 +61,19 @@ A tsne visualization of the visual character representations from `vce.normalize
 
 ### VIPER
 
-VIPER is our visual text perturber. More information on VIPER can be found in `code/VIPER`
+VIPER is our visual text perturber. More information on VIPER can be found in [here](code/VIPER)
 
 ### G2P model
 
-See `code/G2P`
+See [here](code/G2P)
 
 ### Toxic comments training and testing
 
-See `code/TC`
+See [here](code/TC)
 
 ### POS Tagging and Chunking
 
-See `code/POS_Chunk`
+See [here](code/POS_Chunk)
 
 ### Semantic Similarity Sanity Check
 
@@ -82,7 +82,7 @@ In the appendix, we performed a semantic similarity "sanity check" to check whet
 ```Greetings Hey douche bag wassup```
 ```Grëȩtinɋs Ηey ḏoʋchḛ bag ✿ąssɥp```
 
-The code can be found in `code/sanity_check`
+The code can be found in [here](code/sanity_check)
 
 ### AllenNLP modifications
 
