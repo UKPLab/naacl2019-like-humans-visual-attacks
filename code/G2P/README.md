@@ -1,9 +1,9 @@
 # Training
 
-1. Install requirements and get `G2P-my_LSTM-act1_save_new_general.py` to run locally using python3
+1. Install requirements (see `requirements.txt`) and get `G2P-my_LSTM-act1_save_new_general.py` to run locally using python3
 
 2. Generate train,dev,test data and place it in a subfolder in `data` (say you call this MYDATA). Two sample folders are given in `data`.
-   - **NB** All data must be in tab seperated format like train.5k.0, dev.2k.0_5. If necessary, run `python3 renderTest.py < test.1k.0` to convert your test data in the same format.
+   - **NB** All data must be in tab seperated format, see examples in `data`. If necessary, run `python3 renderTest.py < test.1k.0` to convert your test data in the same format.
 
 3. In `G2P-my_LSTM-act1_save_new_general.py` and `neuralnets/BiLSTM_proper.py` modify paths indicated by "MODIFY" to your local settings.
 
