@@ -56,7 +56,7 @@ https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attac
 A tsne visualization of the visual character representations from `vce.normalized` (restricted to the first 250 chars) is given below.
 
 <!-- ![tsne visualization](top250.png) -->
-<img src="top250.png" width="500" height="400">
+<img src="top250.png" width="600" height="480">
 
 
 ### VIPER
