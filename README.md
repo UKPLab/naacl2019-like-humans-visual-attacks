@@ -60,6 +60,7 @@ Below we include a tsne visualization of the visual character representations fr
   * **VIPER** is our visual text perturber. See [code/VIPER](code/VIPER)
   * Our **G2P model** is described in [code/G2P](code/G2P)
   * The code for our **POS Tagging and Chunking** experiments is available in [code/POS_Chunk](code/POS_Chunk)
+  * The code to run the **Toxic Comment Classification** experiments can be found in [code/TC](code/TC)
 
 ### Semantic Similarity Sanity Check
 
