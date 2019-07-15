@@ -47,42 +47,28 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ### Embeddings
 
-We created diverse embeddings, including 576 dimensional visual Character Embeddings (called `vce.normalized` in the folder below).
+We created diverse embeddings, including 576 dimensional visual Character Embeddings (called `vce.normalized` in the folder below). All embeddings and weights can be found [on our public file server](https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attacks/).
 
-All embeddings and weights can be found on our public file server:
-
-https://public.ukp.informatik.tu-darmstadt.de/naacl2019-like-humans-visual-attacks/
-
-A tsne visualization of the visual character representations from `vce.normalized` (restricted to the first 250 chars) is given below.
+Below we include a tsne visualization of the visual character representations from `vce.normalized` (restricted to the first 250 chars).
 
 <!-- ![tsne visualization](top250.png) -->
 <img src="top250.png" width="600" height="480">
 
 
-### VIPER
+### Additional Resources
 
-VIPER is our visual text perturber. More information on VIPER can be found in [here](code/VIPER)
-
-### G2P model
-
-See [here](code/G2P)
-
-### Toxic comments training and testing
-
-See [here](code/TC)
-
-### POS Tagging and Chunking
-
-See [here](code/POS_Chunk)
+  * **VIPER** is our visual text perturber. See [code/VIPER](code/VIPER)
+  * Our **G2P model** is described in [code/G2P](code/G2P)
+  * The code for our **POS Tagging and Chunking** experiments is available in [code/POS_Chunk](code/POS_Chunk)
 
 ### Semantic Similarity Sanity Check
 
-In the appendix, we performed a semantic similarity "sanity check" to check whether VELMo assigns higher cosine similarity to a pair of (clean,perturbed) sentences than SELMo. The pairs are of the form: 
+We additionally performed a semantic similarity "sanity check" to check whether VELMo assigns higher cosine similarity to a pair of (clean,perturbed) sentences than SELMo. The pairs are of the form: 
 
 ```Greetings Hey douche bag wassup```
 ```Grëȩtinɋs Ηey ḏoʋchḛ bag ✿ąssɥp```
 
-The code can be found in [here](code/sanity_check)
+The code can be found in [code/sanity_check](code/sanity_check)
 
 ### AllenNLP modifications
 
