@@ -12,7 +12,8 @@ This repository contains selected code and data for our NAACL 2019 long paper on
        booktitle = {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics},
            month = {Februar},
          journal = {NAACL 2019},
-             url = {http://tubiblio.ulb.tu-darmstadt.de/111643/}
+           pages = {1634--1647},
+           url = {https://www.aclweb.org/anthology/N19-1165}
 }
 ```
 > **Abstract:** Visual modifications to text are often used to obfuscate offensive comments in social media (e.g., ''!d10t'') or as a writing style (''1337'' in ''leet speak''), among other scenarios.
