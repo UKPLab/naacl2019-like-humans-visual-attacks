@@ -35,7 +35,7 @@ However, the shielding methods still fall behind performances achieved in
 non-attack scenarios, which demonstrates the difficulty of dealing with visual attacks.
 
 
-Contact persons: Steffen Eger, eger@ukp.informatik.tu-darmstadt.de, Gözde Gül Sahin (sahin@ukp...), Andreas Rückle (rueckle@ukp...), Ji-Ung Lee (lee@ukp...), ...
+Contact persons: Steffen Eger, eger@aiphes.tu-darmstadt.de, Gözde Gül Sahin (sahin@ukp...), Andreas Rückle (rueckle@ukp...), Ji-Ung Lee (lee@ukp...), ...
 
 https://www.ukp.tu-darmstadt.de/
 
