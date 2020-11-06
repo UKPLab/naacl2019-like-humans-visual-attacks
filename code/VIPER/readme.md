@@ -1,4 +1,12 @@
-# VIPER(p,ICES)
+# VIPER
+
+We offer three different types of VIPER attacks, each following a different "embedding space": (i) ICES is an image based embedding space (two characters are close if they have a similar image); (ii) DCES is a description based embedding space (two characters are close if they have the same textual Unicode description); (iii) ECES is an "easy" character space (each standard character has one neighbor, given by the character and some diacritic). 
+
+Note that all three embedding space are informed by visual similarity.
+
+See the paper for more details. 
+
+## VIPER(p,ICES)
 
 Run VIPER(p,ICES) using
 
@@ -10,7 +18,7 @@ python3 viper_ices.py -e vce.normalized -p 0.4 --perturbations-file dummy_store.
 * `p` is the character perturbation probability. 
 * `dummy_store.txt` stores the disturbed characters used (can be used to create OOV test disturbances).
 
-# VIPER(p,DCES)
+## VIPER(p,DCES)
 
 To perturb an input text by selecting random neighboring tokens in the DCES, run the following script for a plain text file:
 
@@ -32,7 +40,7 @@ python3 viper_dces.py -p 0.4 -d sample_conll.txt --conll
 The descriptions are read from NamesList.txt to construct the DCES. Perturbed data is printed to stdout.
 
 
-# VIPER(p,ECES)
+## VIPER(p,ECES)
 
 Run VIPER(p,ECES) using
 
