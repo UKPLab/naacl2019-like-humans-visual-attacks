@@ -1,8 +1,8 @@
-# VIPER
+# VIPER (VIsual PERturber)
 
-We offer three different types of VIPER attacks, each following a different "embedding space": (i) ICES is an image based embedding space (two characters are close if they have a similar image); (ii) DCES is a description based embedding space (two characters are close if they have the same textual Unicode description); (iii) ECES is an "easy" character space (each standard character has one neighbor, given by the character and some diacritic). 
+We offer three different types of VIPER attacks, each following a different "embedding space": (i) ICES is an image based embedding space (two characters are close if they have a similar image); (ii) DCES is a description based embedding space (two characters are close if they have the same textual Unicode description); (iii) ECES is an "easy" character space (each standard character has one neighbor, given by a diacritic added to the character). 
 
-Note that all three embedding space are informed by visual similarity.
+Note that all three embedding space are informed by visual similarity (to different degrees).
 
 See the paper for more details. 
 
