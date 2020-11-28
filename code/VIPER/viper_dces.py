@@ -263,4 +263,4 @@ for line in docs:
       print("{}\t{}\t{}\t{}".format(i+1, a[i], out_x[i], char_to_hex_string(out_x[i])))
     print() 
   else:
-    print("{}".format(" ".join(out_x)))
+    print("{}".format("".join(out_x)))
